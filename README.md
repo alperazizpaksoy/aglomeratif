@@ -1,5 +1,8 @@
 # aglomeratif
 C # 
+//Alper Aziz PAKSOY - 1220505030
+//Mehmet Yigit ERDEM - 1220505071
+
 using System;
 using System.Collections.Generic;
 
